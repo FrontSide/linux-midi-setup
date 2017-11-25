@@ -16,7 +16,7 @@ Discription of a working MIDI-powered recording setup on linux
 - Run calfjackhost as root
 - Add fluidsynth
 - Import FluidR3_GM.sf2 soundfont
-- Edit and set Channel number 9
+- Edit and set Channel - what channel is received by calf can be set on the midi controller hardware
 - Start Ardour as root
 - Start with JACK
 - Add MIDI instrument (calf fluidsynth)
