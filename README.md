@@ -19,11 +19,11 @@ Discription of a working MIDI-powered recording setup on linux
 - Edit and set Channel number 9
 - Start Ardour as root
 - Start with JACK
-- Add MIDI instrument
+- Add MIDI instrument (calf fluidsynth)
 - Configure MIDI in Ardour
 
-![ardour midi conf](./ardour_midi_conf.png)
+![ardour midi conf](./ardourmidiconf.png)
 
 - Configure MIDI on calfjackhost
 
-![calf midi conf](./calf_midi_conf.png)
+![calf midi conf](./calfmidiconf.png)
