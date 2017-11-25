@@ -27,3 +27,5 @@ Discription of a working MIDI-powered recording setup on linux
 - Configure MIDI on calfjackhost
 
 ![calf midi conf](./calfmidiconf.png)
+
+Reconnecting helps to reset if channels/instruments are locked
